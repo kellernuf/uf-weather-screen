@@ -418,7 +418,7 @@
                 "stationIdentifier": "KSGJ",
                 "name": "Northeast Florida Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "OTHER-MTR",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -558,7 +558,7 @@
                 "stationIdentifier": "KJAX",
                 "name": "Jacksonville International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -838,7 +838,7 @@
                 "stationIdentifier": "KVLD",
                 "name": "Valdosta Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1083,7 +1083,7 @@
                 "stationIdentifier": "KTLH",
                 "name": "Tallahassee International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
