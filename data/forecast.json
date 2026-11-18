@@ -40,9 +40,9 @@
     "properties": {
         "units": "us",
         "forecastGenerator": "BaselineForecastGenerator",
-        "generatedAt": "2026-11-17T18:26:35+00:00",
-        "updateTime": "2026-11-17T18:21:09+00:00",
-        "validTimes": "2026-11-17T12:00:00+00:00/P7DT13H",
+        "generatedAt": "2026-11-18T01:06:49+00:00",
+        "updateTime": "2026-11-17T21:51:47+00:00",
+        "validTimes": "2026-11-17T15:00:00+00:00/P7DT10H",
         "elevation": {
             "unitCode": "wmoUnit:m",
             "value": 29.8704
@@ -50,82 +50,63 @@
         "periods": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-17T13:00:00-05:00",
-                "endTime": "2026-11-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 67,
+                "name": "Tonight",
+                "startTime": "2026-11-17T20:00:00-05:00",
+                "endTime": "2026-11-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 53
+                    "value": 100
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "10 to 14 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy. High near 67, with temperatures falling to around 63 in the afternoon. Northeast wind around 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 61. Northeast wind 10 to 14 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-11-17T18:00:00-05:00",
-                "endTime": "2026-11-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 76
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. Low around 63, with temperatures rising to around 64 overnight. Northeast wind 9 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 3,
                 "name": "Wednesday",
                 "startTime": "2026-11-18T06:00:00-05:00",
                 "endTime": "2026-11-18T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 70,
+                "temperature": 69,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 66
+                    "value": 87
                 },
-                "windSpeed": "13 mph",
+                "windSpeed": "12 to 17 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy. High near 70, with temperatures falling to around 68 in the afternoon. Northeast wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,90?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy. High near 69, with temperatures falling to around 68 in the afternoon. Northeast wind 12 to 17 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
-                "number": 4,
+                "number": 3,
                 "name": "Wednesday Night",
                 "startTime": "2026-11-18T18:00:00-05:00",
                 "endTime": "2026-11-19T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 65,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 67
+                    "value": 82
                 },
-                "windSpeed": "14 mph",
+                "windSpeed": "13 to 17 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/tsra,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 1am, then showers and thunderstorms likely. Mostly cloudy, with a low around 65. Northeast wind around 14 mph, with gusts as high as 23 mph. Chance of precipitation is 70%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80/tsra,70?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers before 1am, then showers and thunderstorms likely. Cloudy. Low around 64, with temperatures rising to around 65 overnight. Northeast wind 13 to 17 mph, with gusts as high as 26 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
             },
             {
-                "number": 5,
+                "number": 4,
                 "name": "Thursday",
                 "startTime": "2026-11-19T06:00:00-05:00",
                 "endTime": "2026-11-19T18:00:00-05:00",
@@ -141,15 +122,15 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,70?size=medium",
                 "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely. Mostly cloudy. High near 75, with temperatures falling to around 72 in the afternoon. Northeast wind around 16 mph, with gusts as high as 26 mph. Chance of precipitation is 70%."
+                "detailedForecast": "Showers and thunderstorms likely. Cloudy. High near 75, with temperatures falling to around 72 in the afternoon. Northeast wind around 16 mph, with gusts as high as 24 mph. Chance of precipitation is 70%."
             },
             {
-                "number": 6,
+                "number": 5,
                 "name": "Thursday Night",
                 "startTime": "2026-11-19T18:00:00-05:00",
                 "endTime": "2026-11-20T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 67,
+                "temperature": 66,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -160,10 +141,10 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,40?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 67. Chance of precipitation is 60%."
+                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 66. Northeast wind around 14 mph, with gusts as high as 21 mph. Chance of precipitation is 60%."
             },
             {
-                "number": 7,
+                "number": 6,
                 "name": "Friday",
                 "startTime": "2026-11-20T06:00:00-05:00",
                 "endTime": "2026-11-20T18:00:00-05:00",
@@ -182,7 +163,7 @@
                 "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 75. Chance of precipitation is 70%."
             },
             {
-                "number": 8,
+                "number": 7,
                 "name": "Friday Night",
                 "startTime": "2026-11-20T18:00:00-05:00",
                 "endTime": "2026-11-21T06:00:00-05:00",
@@ -201,7 +182,7 @@
                 "detailedForecast": "Rain showers likely before 7pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 66. Chance of precipitation is 70%."
             },
             {
-                "number": 9,
+                "number": 8,
                 "name": "Saturday",
                 "startTime": "2026-11-21T06:00:00-05:00",
                 "endTime": "2026-11-21T18:00:00-05:00",
@@ -220,7 +201,7 @@
                 "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 76. Chance of precipitation is 50%."
             },
             {
-                "number": 10,
+                "number": 9,
                 "name": "Saturday Night",
                 "startTime": "2026-11-21T18:00:00-05:00",
                 "endTime": "2026-11-22T06:00:00-05:00",
@@ -239,7 +220,7 @@
                 "detailedForecast": "A chance of rain showers before 1am. Mostly cloudy, with a low around 62. Chance of precipitation is 50%."
             },
             {
-                "number": 11,
+                "number": 10,
                 "name": "Sunday",
                 "startTime": "2026-11-22T06:00:00-05:00",
                 "endTime": "2026-11-22T18:00:00-05:00",
@@ -258,7 +239,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 77."
             },
             {
-                "number": 12,
+                "number": 11,
                 "name": "Sunday Night",
                 "startTime": "2026-11-22T18:00:00-05:00",
                 "endTime": "2026-11-23T06:00:00-05:00",
@@ -277,7 +258,7 @@
                 "detailedForecast": "Partly cloudy, with a low around 58."
             },
             {
-                "number": 13,
+                "number": 12,
                 "name": "Monday",
                 "startTime": "2026-11-23T06:00:00-05:00",
                 "endTime": "2026-11-23T18:00:00-05:00",
@@ -296,7 +277,7 @@
                 "detailedForecast": "Mostly sunny, with a high near 77."
             },
             {
-                "number": 14,
+                "number": 13,
                 "name": "Monday Night",
                 "startTime": "2026-11-23T18:00:00-05:00",
                 "endTime": "2026-11-24T06:00:00-05:00",
@@ -313,6 +294,25 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 59."
+            },
+            {
+                "number": 14,
+                "name": "Tuesday",
+                "startTime": "2026-11-24T06:00:00-05:00",
+                "endTime": "2026-11-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 7am. Mostly sunny, with a high near 76."
             }
         ]
     }
