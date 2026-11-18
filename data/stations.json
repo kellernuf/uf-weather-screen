@@ -68,7 +68,7 @@
                 "stationIdentifier": "KGNV",
                 "name": "Gainesville, Gainesville Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -138,8 +138,8 @@
                 "stationIdentifier": "K42J",
                 "name": "Keystone Heights Airport",
                 "timeZone": "America/New_York",
-                "provider": "NonFedAWOS",
-                "subProvider": "TG",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 37192.655583351
@@ -173,7 +173,7 @@
                 "stationIdentifier": "KOCF",
                 "name": "Ocala International Airport - Jim Taylor Field",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -243,8 +243,8 @@
                 "stationIdentifier": "K28J",
                 "name": "Palatka Kay Larkin Field",
                 "timeZone": "America/New_York",
-                "provider": "NonFedAWOS",
-                "subProvider": "TG",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 64617.938600384
@@ -488,7 +488,7 @@
                 "stationIdentifier": "KCRG",
                 "name": "Jacksonville Craig Municipal Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -698,7 +698,7 @@
                 "stationIdentifier": "KDAB",
                 "name": "Daytona Beach International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
