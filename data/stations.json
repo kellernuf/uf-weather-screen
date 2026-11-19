@@ -68,7 +68,7 @@
                 "stationIdentifier": "KGNV",
                 "name": "Gainesville, Gainesville Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -173,7 +173,7 @@
                 "stationIdentifier": "KOCF",
                 "name": "Ocala International Airport - Jim Taylor Field",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -243,8 +243,8 @@
                 "stationIdentifier": "K28J",
                 "name": "Palatka Kay Larkin Field",
                 "timeZone": "America/New_York",
-                "provider": "NonFedAWOS",
-                "subProvider": "TG",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 64617.938600384
@@ -488,7 +488,7 @@
                 "stationIdentifier": "KCRG",
                 "name": "Jacksonville Craig Municipal Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -698,7 +698,7 @@
                 "stationIdentifier": "KDAB",
                 "name": "Daytona Beach International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1204,6 +1204,41 @@
             }
         },
         {
+            "id": "https://api.weather.gov/stations/KBHC",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.3938,
+                    31.7138
+                ]
+            },
+            "properties": {
+                "@id": "https://api.weather.gov/stations/KBHC",
+                "@type": "wx:ObservationStation",
+                "elevation": {
+                    "unitCode": "wmoUnit:m",
+                    "value": 61.2648
+                },
+                "stationIdentifier": "KBHC",
+                "name": "Baxley Municipal Airport",
+                "timeZone": "America/New_York",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
+                "distance": {
+                    "unitCode": "wmoUnit:m",
+                    "value": 229948.71190804
+                },
+                "bearing": {
+                    "unitCode": "wmoUnit:degree_(angle)",
+                    "value": 359
+                },
+                "forecast": "https://api.weather.gov/zones/forecast/GAZ135",
+                "county": "https://api.weather.gov/zones/county/GAC001",
+                "fireWeatherZone": "https://api.weather.gov/zones/fire/GAZ135"
+            }
+        },
+        {
             "id": "https://api.weather.gov/stations/KFZG",
             "type": "Feature",
             "geometry": {
@@ -1588,6 +1623,7 @@
         "https://api.weather.gov/stations/KMGR",
         "https://api.weather.gov/stations/KJES",
         "https://api.weather.gov/stations/KTMA",
+        "https://api.weather.gov/stations/KBHC",
         "https://api.weather.gov/stations/KFZG",
         "https://api.weather.gov/stations/KAZE",
         "https://api.weather.gov/stations/KLHW",
