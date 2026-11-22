@@ -68,7 +68,7 @@
                 "stationIdentifier": "KGNV",
                 "name": "Gainesville, Gainesville Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -173,7 +173,7 @@
                 "stationIdentifier": "KOCF",
                 "name": "Ocala International Airport - Jim Taylor Field",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -418,7 +418,7 @@
                 "stationIdentifier": "KSGJ",
                 "name": "Northeast Florida Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -453,7 +453,7 @@
                 "stationIdentifier": "KLEE",
                 "name": "Leesburg International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -488,7 +488,7 @@
                 "stationIdentifier": "KCRG",
                 "name": "Jacksonville Craig Municipal Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -558,7 +558,7 @@
                 "stationIdentifier": "KJAX",
                 "name": "Jacksonville International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -698,7 +698,7 @@
                 "stationIdentifier": "KDAB",
                 "name": "Daytona Beach International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -768,7 +768,7 @@
                 "stationIdentifier": "KSFB",
                 "name": "Orlando / Sanford Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -838,7 +838,7 @@
                 "stationIdentifier": "KVLD",
                 "name": "Valdosta Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1083,7 +1083,7 @@
                 "stationIdentifier": "KTLH",
                 "name": "Tallahassee International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1538,7 +1538,7 @@
                 "stationIdentifier": "KSAV",
                 "name": "Savannah-Hilton Head International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
