@@ -418,7 +418,7 @@
                 "stationIdentifier": "KSGJ",
                 "name": "Northeast Florida Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -768,7 +768,7 @@
                 "stationIdentifier": "KSFB",
                 "name": "Orlando / Sanford Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -838,7 +838,7 @@
                 "stationIdentifier": "KVLD",
                 "name": "Valdosta Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1083,7 +1083,7 @@
                 "stationIdentifier": "KTLH",
                 "name": "Tallahassee International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1223,7 +1223,7 @@
                 "stationIdentifier": "KBHC",
                 "name": "Baxley Municipal Airport",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
+                "provider": "",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1538,7 +1538,7 @@
                 "stationIdentifier": "KSAV",
                 "name": "Savannah-Hilton Head International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
