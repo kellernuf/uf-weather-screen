@@ -68,7 +68,7 @@
                 "stationIdentifier": "KGNV",
                 "name": "Gainesville, Gainesville Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -138,8 +138,8 @@
                 "stationIdentifier": "K42J",
                 "name": "Keystone Heights Airport",
                 "timeZone": "America/New_York",
-                "provider": "OTHER-MTR",
-                "subProvider": "",
+                "provider": "NonFedAWOS",
+                "subProvider": "TG",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 37192.655583351
@@ -558,7 +558,7 @@
                 "stationIdentifier": "KJAX",
                 "name": "Jacksonville International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -838,7 +838,7 @@
                 "stationIdentifier": "KVLD",
                 "name": "Valdosta Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1538,7 +1538,7 @@
                 "stationIdentifier": "KSAV",
                 "name": "Savannah-Hilton Head International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS-HFM",
+                "provider": "ASOS",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
