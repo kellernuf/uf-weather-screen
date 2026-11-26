@@ -68,7 +68,7 @@
                 "stationIdentifier": "KGNV",
                 "name": "Gainesville, Gainesville Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -243,8 +243,8 @@
                 "stationIdentifier": "K28J",
                 "name": "Palatka Kay Larkin Field",
                 "timeZone": "America/New_York",
-                "provider": "NonFedAWOS",
-                "subProvider": "TG",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 64617.938600384
@@ -558,7 +558,7 @@
                 "stationIdentifier": "KJAX",
                 "name": "Jacksonville International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -838,7 +838,7 @@
                 "stationIdentifier": "KVLD",
                 "name": "Valdosta Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
@@ -1328,8 +1328,8 @@
                 "stationIdentifier": "KLHW",
                 "name": "Wright Army Airfield (Fort Stewart)/Midcoast Regional Airport",
                 "timeZone": "America/New_York",
-                "provider": "NonFedAWOS",
-                "subProvider": "TG",
+                "provider": "OTHER-MTR",
+                "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
                     "value": 260524.04959737
@@ -1538,7 +1538,7 @@
                 "stationIdentifier": "KSAV",
                 "name": "Savannah-Hilton Head International Airport",
                 "timeZone": "America/New_York",
-                "provider": "ASOS",
+                "provider": "ASOS-HFM",
                 "subProvider": "",
                 "distance": {
                     "unitCode": "wmoUnit:m",
